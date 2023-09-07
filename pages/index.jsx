@@ -215,7 +215,7 @@ export default function Home() {
           name="Cv Builder"
           content="Beautifully designed cv builder where you can see the changes at the same time"
         />
-        <link rel="icon" href="/fav.png" />
+        <link rel="icon" href="/cvBuilder.png" />
       </Head>
       <CvContext.Provider
         value={{
