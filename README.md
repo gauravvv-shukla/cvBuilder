@@ -15,7 +15,7 @@ Create stunning, modern resumes effortlessly with our Next.js-based CV generator
 
 ## Demo
 
-You can experience our CV generator live by visiting the [Demo](https://cvbuilder.thegauravshukla.me/) page.
+You can experience our CV generator live by visiting the [Demo](https://cvbuilder.gauravxshukla.me/) page.
 
 ## Features
 
